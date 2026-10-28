@@ -1,0 +1,33 @@
+{
+  "model": "yolov8n.pt",
+  "confidence": 0.35,
+  "classes": [
+    "person",
+    "backpack",
+    "handbag",
+    "suitcase",
+    "chair",
+    "bench",
+    "bicycle",
+    "motorcycle",
+    "car",
+    "truck"
+  ],
+  "zone": [
+    0.25,
+    0.15,
+    0.95,
+    0.95
+  ],
+  "alert_classes": [
+    "backpack",
+    "handbag",
+    "suitcase",
+    "chair",
+    "bench",
+    "bicycle",
+    "motorcycle",
+    "car",
+    "truck"
+  ]
+}
